@@ -25,3 +25,11 @@
   color: black;
   font-weight: bold;
 }
+
+.yorum-ekle {
+  display: flex;
+}
+
+.yorum-ekle > input {
+  flex: 1;
+}
